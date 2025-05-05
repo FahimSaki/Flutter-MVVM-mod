@@ -1,5 +1,7 @@
 # my_barebone_mod
 
+<img src="https://github.com/user-attachments/assets/7065c1e0-c77b-4a86-b670-5e823dcee495" alt="My Barebone Mod" width="500">
+
 A Flutter project that serves as a template with essential features for building a robust mobile application.
 
 ## ✨ Features
@@ -17,7 +19,7 @@ A Flutter project that serves as a template with essential features for building
 
 ## 🚀 Getting Started
 
-To get started with this project, clone the repository and switch to your desired branch.
+To get started with this project, clone the repository.
 
 ## 📁 Project Structure
 
